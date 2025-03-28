@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am a Full Stack & Flutter Developer with a passion for building modern, scalable applications. I ❤️ coding and working with technologies like Node.js, React, Express, and Flutter to create innovative solutions. I’m always eager to learn new things and explore different areas in tech.</h4>
+<h3 align="center">I am a Full Stack & Flutter Developer with a passion for building modern, scalable applications. I ❤️ coding and working with technologies like Node.js, React, Express, and Flutter to create innovative solutions. I’m always eager to learn new things and explore different areas in tech.</h3>
 
 ###
 
