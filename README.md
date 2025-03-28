@@ -146,20 +146,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedAlakhaly&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAlakhaly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohamedAlakhaly&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=15" height="230" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tyOWxwZDFidjFqNnB5b3MyYXkwOXQwYWxteHphMmE0ZzJpcGo0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MohamedAlakhaly/MohamedAlakhaly/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2tyOWxwZDFidjFqNnB5b3MyYXkwOXQwYWxteHphMmE0ZzJpcGo0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
 
 ###
